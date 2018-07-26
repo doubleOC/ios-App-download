@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://doubleoc.github.io/ios-App-download/logo.png</string>
+					<string>https://doubleoc.github.io/ios-App-download/logo@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
